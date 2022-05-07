@@ -82,7 +82,7 @@ h5{
 }
 
 h6{
-    font-size: 0.5em;
+    font-size: 0.65em;
 }
 
   .tooltip .tooltiptext {
@@ -90,12 +90,12 @@ h6{
     width: 200px;
     background-color: rgb(40, 18, 92);
     color: #fff;
-    font-family: FuturaPT-Book, Futura PT, sans-serif;
+    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
     text-align: left;
-    font-size: 10px;
+    font-size: 12px;
     padding: 5px;
     border-radius: 6px;
-    left:150px;
+    left:50px;
     position: absolute;
     z-index: 1;
   }
@@ -105,12 +105,12 @@ h6{
     width: 100px;
     background-color: #f6ff00;
     color: black;
-    font-family: FuturaPT-Book, Futura PT, sans-serif;
+    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
     padding: 5px;
     border-radius: 6px;
-    left:150px;
+    left:50px;
     position: absolute;
     z-index: 1;
   }
