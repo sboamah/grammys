@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 548.39 360.46">
+  <line x1="102.08" y1="266.84" x2="496.88" y2="266.84" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width=".77"/>
+  <line x1="102.08" y1="213.95" x2="496.88" y2="213.95" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width=".77"/>
+  <line x1="102.08" y1="161.82" x2="496.88" y2="161.82" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width=".77"/>
+  <line x1="102.08" y1="108.92" x2="496.88" y2="108.92" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width=".77"/>
+  <line x1="102.08" y1="56.03" x2="496.88" y2="56.03" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width=".77"/>
+  <path d="M269.58,265.69v.77h-.77V127.71c0-.42-.34-.77-.77-.77h-105.79c-.42,0-.77,.34-.77,.77v138.75h-.77v-.77h108.86Zm0,1.53h-109.62V127.71h0c0-1.27,1.03-2.3,2.3-2.3v0h105.79v0c1.27,0,2.3,1.03,2.3,2.3h0v139.52h-.77" opacity="0"/>
+  <path d="M270.59,266.46h-86.4V127.71c0-.85,.54-1.53,1.22-1.53h83.97c.67,0,1.22,.69,1.22,1.53v138.75Z" fill="#caa016"/>
+  <path d="M435.24,266.46h-86.4V67.91c0-.85,.54-1.53,1.22-1.53h83.97c.67,0,1.22,.69,1.22,1.53v198.55Z" fill="#161032"/>
+  <rect x="102.12" y="56.07" width="394.72" height="210.74" fill="none"/>
+  <text transform="translate(64.69 269.87)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+  <text transform="translate(59.32 217.19)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">10%</tspan></text>
+  <text transform="translate(59.32 164.5)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+  <text transform="translate(59.32 111.82)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">30%</tspan></text>
+  <text transform="translate(59.32 59.13)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+  <text transform="translate(181.73 279.84)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">Grammy Nominees</tspan></text>
+  <text transform="translate(336.24 279.84)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="12"><tspan x="0" y="0">Billboard Chart Toppers</tspan></text>
+  <text transform="translate(209.15 172.01)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0" letter-spacing="-.04em">2</tspan><tspan x="7.43" y="0">6.7%</tspan><tspan x="0" y="16.8">Black</tspan></text>
+  <text transform="translate(377.18 131.16)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">38%</tspan><tspan x="0" y="16.8">Black</tspan></text>
+</svg>

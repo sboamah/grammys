@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 409.68 409.68">
+  <path d="M220.09,37.63c53.04,0,103.09,24.51,135.62,66.4,32.53,41.89,43.87,96.46,30.72,147.84l-166.34-42.55V37.63Z" fill="#2a2e34"/>
+  <path d="M386.43,251.88c-13.82,54.05-53.05,98.01-105.18,117.89l-61.17-160.43,166.34,42.55Z" fill="#3a1d03"/>
+  <path d="M151.68,51.84c21.59-9.38,44.87-14.21,68.4-14.21V209.33L151.68,51.84Z" fill="#a7a9ac"/>
+  <path d="M144.58,55.12c2.34-1.15,4.71-2.24,7.1-3.28l68.4,157.48L144.58,55.12Z" fill="#5b51aa"/>
+  <path d="M49.5,189.83c6.65-58.18,42.49-108.96,95.09-134.71l75.5,154.21-170.59-19.5Z" fill="#fbe44b"/>
+  <path d="M61.09,274.13c-10.88-26.68-14.86-55.68-11.59-84.3l170.59,19.5L61.09,274.13Z" fill="#b26700"/>
+  <path d="M281.25,369.76c-87.18,33.24-184.95-9.23-220.17-95.63l159-64.8,61.17,160.43Z" fill="#fb9626"/>
+  <text transform="translate(176.56 81.08)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">Other</tspan></text>
+  <text transform="translate(176.49 98.92)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="18.86"><tspan x="0" y="0">6.5%</tspan></text>
+  <text transform="translate(12.12 90.26)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">Compilation</tspan></text>
+  <text transform="translate(12.12 111.56)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">0.7%</tspan></text>
+  <polyline points="12.87 95.9 97.58 95.9 151.71 61.24" fill="none" stroke="#757575" stroke-miterlimit="10"/>
+  <path d="M154.22,61.24c0-1.38-1.12-2.51-2.51-2.51s-2.51,1.12-2.51,2.51,1.12,2.51,2.51,2.51,2.51-1.12,2.51-2.51" fill="#9e9e9e"/>
+  <text transform="translate(112.47 139.76)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">R&amp;B</tspan></text>
+  <text transform="translate(105.14 161.06)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">15.9%</tspan></text>
+  <text transform="translate(78.52 217.75)" fill="#fff" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">Country</tspan></text>
+  <text transform="translate(86.06 239.06)" fill="#fff" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">8.0%</tspan></text>
+  <text transform="translate(165.39 295.82)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">Rock</tspan></text>
+  <text transform="translate(159.7 317.13)" fill="#231f20" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">24.6%</tspan></text>
+  <text transform="translate(290.52 150.8)" fill="#fff" font-family="FuturaPT-Bold, Futura PT" font-size="15.04"><tspan x="0" y="0">Pop</tspan></text>
+  <text transform="translate(281.71 172.11)" fill="#fff" font-family="FuturaPT-Bold, Futura PT" font-size="15.04"><tspan x="0" y="0">29.0%</tspan></text>
+  <text transform="translate(285.34 274.13)" fill="#fff" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">Rap</tspan></text>
+  <text transform="translate(277.16 295.43)" fill="#fff" font-family="FuturaPT-Book, Futura PT" font-size="15.04"><tspan x="0" y="0">15.2%</tspan></text>
+</svg>

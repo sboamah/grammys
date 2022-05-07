@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'Acumin Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro'), url('fonts/Acumin-RPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Italic'), url('fonts/Acumin-ItPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Bold'), url('fonts/Acumin-BdPro.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Acumin Pro Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Acumin Pro Bold Italic'), url('fonts/Acumin-BdItPro.woff') format('woff');
+    }
+
+section{
+    width:50%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #c0b8fc;
+    background-color: #f4ecff;
+}
+
+img{
+    width:100%;
+}
+
+hr{
+    background-color: black;
+    border-color: black;
+}
+
+h1 {
+    font-family: 'Acumin Pro Bold', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin: 0 auto;
+    text-align: left;
+    color: #161032;
+}
+
+h2 {
+    font-family: 'Acumin Pro Bold', sans-serif;
+    text-transform: capitalize;
+    font-size: 1em;
+}
+
+h3{
+    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
+    padding: 2px;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: italic;
+    text-decoration: underline;
+    margin: 0 auto;
+}
+
+h5, h6 {
+    line-height: 1em;
+    font-weight: 300;
+    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+h5{
+    font-size: 0.75em;
+}
+
+h6{
+    font-size: 0.5em;
+}
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: rgb(40, 18, 92);
+    color: #fff;
+    font-family: FuturaPT-Book, Futura PT, sans-serif;
+    text-align: left;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 6px;
+    left:150px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .tooltip .notify {
+    visibility: visible;
+    width: 100px;
+    background-color: #f6ff00;
+    color: black;
+    font-family: FuturaPT-Book, Futura PT, sans-serif;
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 6px;
+    left:150px;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  .tooltip:hover .notify {
+    visibility: hidden;
+  }
+
+@media only screen and (max-width: 480px) {
+    section{
+
+        width:100%;
+    }
+}

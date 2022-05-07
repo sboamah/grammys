@@ -1,0 +1,41 @@
+{
+    "graphs": [
+    {
+        "id": 1,
+        "title": "Grammy Nominees by Gender",
+        "subtitle": "Gender distribution of nominees from 2013-2021",
+        "graph": "svg/GrammyNomsByGender.svg",
+        "alt": "86.6% Male, 13.4% Female",
+        "source": "Source: Statistica",
+        "disclaimer": ""
+    },
+    {
+        "id": 2,
+        "title": "",
+        "subtitle": "Black performers represented about 38% of all artists on Billboard's signature chart from 2012 to 2020, yet they received only 26.7% of top Grammy nominations during the same period (CNN).",
+        "graph": "svg/BlackBillboardsVsGrammys.svg",
+        "alt": "38% Black Billboard Chart Toppers, Black 26.7% Grammy Nominees",
+        "source": "Source: USC Annenberg Inclusion Initiative",
+        "disclaimer": ""
+    },
+    {
+        "id": 3,
+        "title": "Grammy Album of the Year by Genre",
+        "subtitle": "From 1995-2021",
+        "graph": "svg/AOTYByGenre.svg",
+        "alt": "Pop leads in Grammy Album of the Year Nominees.",
+        "source": "Source: Billboard",
+        "disclaimer": "Contemporary R&B and R&B are combined, along with Rock and Alternative."
+    },
+    {
+        "id": 4,
+        "title": "Billboard 200 #1 Albums by Genre",
+        "subtitle": "From 1995-2021",
+        "graph": "svg/BillboardNo1AlbumsByGenre.svg",
+        "alt": "Rap leads in Billboard #1 Album Appearances.",
+        "source": "Source: Wikipedia",
+        "disclaimer": "Genre sorting based on first classified genre by artist. Accounts for genre changes in career (i.e. Taylor Swift)"
+    }
+]
+
+}
