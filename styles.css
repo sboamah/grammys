@@ -1,4 +1,12 @@
 @font-face {
+    font-family: 'Futura';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Futura'), url('fonts/Futura.ttf') format('tff');
+    }
+
+
+@font-face {
     font-family: 'Acumin Pro';
     font-style: normal;
     font-weight: normal;
@@ -29,103 +37,116 @@
     src: local('Acumin Pro Bold Italic'), url('fonts/Acumin-BdItPro.woff') format('woff');
     }
 
-section{
-    width:50%;
-    margin: 0 auto;
-    padding: 10px;
-    border: 1px solid #c0b8fc;
-    background-color: #f4ecff;
-}
+    body{
+        line-height: 1.2em;
+        margin: 0 auto;
+        width: 60%;
+        background: rgb(137,131,228);
+        background: linear-gradient(6deg, rgba(137,131,228,1) 0%, rgba(215,214,105,1) 35%, rgba(175,233,255,1) 100%);
+    }
 
-img{
-    width:100%;
-}
-
-hr{
-    background-color: black;
-    border-color: black;
-}
-
-h1 {
-    font-family: 'Acumin Pro Bold', sans-serif;
-    text-transform: uppercase;
-    font-size: 1.5em;
-    margin: 0 auto;
-    text-align: left;
-    color: #161032;
-}
-
-h2 {
-    font-family: 'Acumin Pro Bold', sans-serif;
-    text-transform: capitalize;
-    font-size: 1em;
-}
-
-h3{
-    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
-    padding: 2px;
-    font-size: 1em;
-    font-weight: 200;
-    font-style: italic;
-    text-decoration: underline;
-    margin: 0 auto;
-}
-
-h5, h6 {
-    line-height: 1em;
-    font-weight: 300;
-    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
-}
-
-h5{
-    font-size: 0.75em;
-}
-
-h6{
-    font-size: 0.65em;
-}
-
-  .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 200px;
-    background-color: rgb(40, 18, 92);
-    color: #fff;
-    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
-    text-align: left;
-    font-size: 12px;
-    padding: 5px;
-    border-radius: 6px;
-    left:50px;
-    position: absolute;
-    z-index: 2000;
-  }
-
-  .tooltip .notify {
-    visibility: visible;
-    width: 10px;
-    background-color: #f6ff00;
-    color: black;
-    font-family: FuturaPT-Book, Futura PT, Futura, Trebuchet MS, Arial, sans-serif;
-    text-align: center;
-    font-size: 12px;
-    padding: 5px;
-    border-radius: 6px;
-    left:50px;
-    position: absolute;
-    z-index: 1;
-  }
-  
-  .tooltip:hover .tooltiptext {
-    visibility: visible;
-  }
-
-  .tooltip:hover .notify {
-    visibility: hidden;
-  }
-
-@media only screen and (max-width: 480px) {
     section{
+        width:50%;
+        margin: 0 auto;
+        padding: 10px;
+        border: 1px solid #c0b8fc;
+        background-color: #f4ecff7c;
+    }
 
+    img{
         width:100%;
     }
-}
+
+    hr{
+        background-color: black;
+        border-color: black;
+    }
+
+    h1 {
+        font-family: 'Acumin Pro Bold', sans-serif;
+        text-transform: uppercase;
+        font-size: 1.5em;
+        margin: 0 auto;
+        text-align: left;
+        color: #161032;
+    }
+
+    h2 {
+        font-family: 'Acumin Pro Bold', sans-serif;
+        text-transform: capitalize;
+        font-size: 1em;
+    }
+
+    h3{
+        font-family: 'Futura', sans-serif;
+        padding: 2px;
+        font-size: 1em;
+        font-weight: 200;
+        font-style: italic;
+        text-decoration: underline;
+        margin: 0 auto;
+    }
+
+    h5, h6 {
+        font-weight: 300;
+        font-family: 'Futura', sans-serif;
+    }
+
+    h5{
+        font-size: 0.95em;
+    }
+
+    h6{
+        font-size: 0.85em;
+    }
+
+    p{
+        font-size: 0.75em;
+        font-family: 'Futura', sans-serif;
+        font-style: italic;
+    }
+
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        color: #28125c;
+        font-family: 'Futura', sans-serif;
+        text-align: left;
+        font-weight: bold;
+        font-size: 1em;
+        padding: 5px;
+        border-radius: 6px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .tooltip .notify {
+        visibility: visible;
+        background-color: #f6ff009e;
+        color: black;
+        margin: 0 auto;
+        font-family: 'Futura',  sans-serif;
+        text-align: center;
+        font-size: 0.8em;
+        padding: 5px;
+        border-radius: 6px;
+        z-index: 1;
+    }
+    
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+
+    .tooltip:hover .notify {
+        visibility: hidden;
+    }
+
+    @media only screen and (max-width: 480px) {
+        body{
+            width: 100%;
+        }
+
+        section{
+
+            width:100%;
+        }
+    }

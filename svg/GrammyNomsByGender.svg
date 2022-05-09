@@ -3,6 +3,6 @@
   <path d="M74.24,87.5c31.48-35.25,76.5-55.41,123.76-55.41V197.99L74.24,87.5Z" fill="#b3b6bd"/>
   <path d="M197.99,32.09c78.27,0,145.89,54.7,162.25,131.24,16.35,76.54-23.01,154.1-94.45,186.09-71.44,31.98-155.51,9.69-201.71-53.48-46.2-63.18-41.97-150.05,10.16-208.43l123.76,110.5V32.09Z" fill="#0b0c0c"/>
 
-  <text transform="translate(177.86 235.19)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="18"><tspan x="0" y="0">86.6%</tspan><tspan x="5.69" y="21">Male</tspan></text>
-  <text transform="translate(125.49 96.1)" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="18"><tspan x="0" y="0">13.4%</tspan><tspan x="-3.39" y="18">Female</tspan></text>
+  <text transform="translate(177.86 235.19)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">86.6%</tspan><tspan x="5.69" y="21">Male</tspan></text>
+  <text transform="translate(125.49 96.1)" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">13.4%</tspan><tspan x="-3.39" y="18">Female</tspan></text>
 </svg>
