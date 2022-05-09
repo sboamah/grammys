@@ -46,11 +46,17 @@
     }
 
     section{
-        width:50%;
+        width:70%;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 6px;
+        background-color: #ffffff5a;
+    }
+
+    .content{
+        width:100%;
         margin: 0 auto;
         padding: 10px;
-        border: 1px solid #c0b8fc;
-        background-color: #f4ecff7c;
     }
 
     img{
@@ -108,11 +114,16 @@
 
     .tooltip .tooltiptext {
         visibility: hidden;
+        height: 50px;
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+        scroll-padding: 2px;
+        scrollbar-width: 2px;
         color: #28125c;
         font-family: 'Futura', sans-serif;
         text-align: left;
         font-weight: bold;
-        font-size: 1em;
+        font-size: 0.7em;
         padding: 5px;
         border-radius: 6px;
         position: relative;
@@ -121,7 +132,7 @@
 
     .tooltip .notify {
         visibility: visible;
-        background-color: #f6ff009e;
+        background-color: #967bfa9e;
         color: black;
         margin: 0 auto;
         font-family: 'Futura',  sans-serif;
@@ -142,11 +153,11 @@
 
     @media only screen and (max-width: 480px) {
         body{
-            width: 100%;
+            width: 90%;
         }
 
         section{
 
-            width:100%;
+            width:90%;
         }
     }
