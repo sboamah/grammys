@@ -2,11 +2,11 @@
     "graphs": [
     {
         "id": 1,
-        "title": "Grammy Nominees by Gender",
-        "subtitle": "Gender distribution of nominees from 2013-2021",
-        "graph": "svg/GrammyNomsByGender.svg",
-        "alt": "86.6% Male, 13.4% Female",
-        "source": "Source: Statistica",
+        "title": "Academy Members vs. Grammy Nominees by Gender",
+        "subtitle": "",
+        "graph": "svg/Gender.svg",
+        "alt": "86.6% Male, 13.4% Female Nominees",
+        "source": "Source: Billboard, Statistica",
         "disclaimer": ""
     },
     {
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "title": "Grammy Album of the Year by Genre",
-        "subtitle": "From 1995-2021",
+        "subtitle": "From 1995 - 2021",
         "graph": "svg/AOTYByGenre.svg",
         "alt": "Pop leads in Grammy Album of the Year Nominees.",
         "source": "Source: Billboard",
@@ -30,11 +30,21 @@
     {
         "id": 4,
         "title": "Billboard 200 #1 Albums by Genre",
-        "subtitle": "From 1995-2021",
+        "subtitle": "From 1995 - 2021",
         "graph": "svg/BillboardNo1AlbumsByGenre.svg",
         "alt": "Rap leads in Billboard #1 Album Appearances.",
         "source": "Source: Wikipedia",
         "disclaimer": "Genre sorting based on first classified genre by artist. Accounts for genre changes in career (i.e. Taylor Swift)"
+    },
+
+    {
+        "id": 5,
+        "title": "Grammys Viewership Frequency by Age Group",
+        "subtitle": "As of May 2020",
+        "graph": "svg/ViewershipByAge.svg",
+        "alt": "Age 18-34 watch the Grammys the most.",
+        "source": "Source: Statistica",
+        "disclaimer": ""
     }
 ]
 

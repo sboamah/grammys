@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 745.22881 376.96815">
+  <line x1="67.62822" y1="308.31458" x2="729.4782" y2="308.31458" fill="none" stroke="#333" stroke-miterlimit="10"/>
+  <line x1="67.62822" y1="238.8456" x2="729.4782" y2="238.8456" fill="none" stroke="#ccc" stroke-miterlimit="10"/>
+  <line x1="67.62822" y1="169.37661" x2="729.4782" y2="169.37661" fill="none" stroke="#ccc" stroke-miterlimit="10"/>
+  <line x1="67.62822" y1="99.90763" x2="729.4782" y2="99.90763" fill="none" stroke="#ccc" stroke-miterlimit="10"/>
+  <line x1="67.62822" y1="30.43864" x2="729.4782" y2="30.43864" fill="none" stroke="#ccc" stroke-miterlimit="10"/>
+  <rect x="120.04573" y="238.21406" width="98.51965" height="69.46899" fill="#fb9626"/>
+  <rect x="272.8775" y="243.26635" width="98.51965" height="64.4167" fill="#fb9626"/>
+  <rect x="424.44619" y="260.94937" width="98.51965" height="46.73368" fill="#fb9626"/>
+  <rect x="577.27796" y="268.5278" width="98.51965" height="39.15525" fill="#fb9626"/>
+  <rect x="120.04573" y="178.84966" width="98.51965" height="59.36441" fill="#5b51aa"/>
+  <rect x="272.8775" y="177.58658" width="98.51965" height="65.67977" fill="#5b51aa"/>
+  <rect x="424.44619" y="207.90032" width="98.51965" height="53.04904" fill="#5b51aa"/>
+  <rect x="577.27796" y="208.21569" width="98.51965" height="60.62748" fill="#5b51aa"/>
+  <path d="M218.56538,177.58658v1.26307h-1.26307v-50.5229h1.26307v1.26307H120.04573v-1.26307h1.26307v50.5229h-1.26307v-1.26307h98.51965Zm0,2.52614H118.78266v-53.04904h101.0458v53.04904h-1.26307" opacity="0"/>
+  <rect x="120.04573" y="128.32676" width="98.51965" height="50.5229" fill="#fbe44b"/>
+  <path d="M371.39715,176.32351v1.26307h-1.26307v-44.20754h1.26307v1.26307h-98.51965v-1.26307h1.26307v44.20754h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272v-46.73368h101.0458v46.73368h-1.26307" opacity="0"/>
+  <rect x="272.8775" y="133.37905" width="98.51965" height="44.20754" fill="#fbe44b"/>
+  <path d="M522.96585,206.63725v1.26307h-1.26307v-46.73368h1.26307v1.26307h-98.51965v-1.26307h1.26307v46.73368h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272v-49.25983h101.0458v49.25983h-1.26307" opacity="0"/>
+  <rect x="424.44619" y="161.16664" width="98.51965" height="46.73368" fill="#fbe44b"/>
+  <path d="M675.79762,206.63725v1.26307h-1.26307v-46.73368h1.26307v1.26307h-98.51965v-1.26307h1.26307v46.73368h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272v-49.25983h101.0458v49.25983h-1.26307" opacity="0"/>
+  <rect x="577.27796" y="161.16664" width="98.51965" height="46.73368" fill="#fbe44b"/>
+  <rect x="66.99669" y="30.22814" width="661.84997" height="277.45491" fill="none"/>
+  <path d="M218.56538,127.06368v1.26307h-1.26307V32.33325c0-.69757-.56549-1.26307-1.26307-1.26307H122.57187c-.69758,0-1.26307,.56551-1.26307,1.26307v95.99351h-1.26307v-1.26307h98.51965Zm0,2.52614H118.78266V32.33325h0c0-2.09273,1.69649-3.78922,3.78922-3.78922v0h93.46736v0c2.09273,0,3.78922,1.69648,3.78922,3.78922h0v97.25658h-1.26307" opacity="0"/>
+  <path d="M218.56538,128.32676H120.04573V32.33325c0-1.39513,1.13099-2.52614,2.52614-2.52614h93.46736c1.39515,0,2.52614,1.13101,2.52614,2.52614v95.99351Z" fill="#262262"/>
+  <path d="M371.39715,132.11597v1.26307h-1.26307V32.33325c0-.69757-.56551-1.26307-1.26307-1.26307h-93.46736c-.69758,0-1.26307,.56551-1.26307,1.26307v101.0458h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272V32.33325h0c0-2.09273,1.69648-3.78922,3.78922-3.78922v0h93.46736v0c2.09273,0,3.78922,1.69648,3.78922,3.78922h0v102.30887h-1.26307" opacity="0"/>
+  <path d="M371.39715,133.37905h-98.51965V32.33325c0-1.39513,1.13099-2.52614,2.52614-2.52614h93.46736c1.39517,0,2.52614,1.13101,2.52614,2.52614v101.0458Z" fill="#262262"/>
+  <path d="M522.96585,159.90357v1.26307h-1.26307V32.33325c0-.69757-.56551-1.26307-1.26307-1.26307h-93.46736c-.69757,0-1.26307,.56551-1.26307,1.26307V161.16664h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272V32.33325h0c0-2.09273,1.69648-3.78922,3.78922-3.78922v0h93.46736v0c2.09273,0,3.78922,1.69648,3.78922,3.78922h0V162.42971h-1.26307" opacity="0"/>
+  <path d="M522.96585,161.16664h-98.51965V32.33325c0-1.39513,1.13098-2.52614,2.52614-2.52614h93.46736c1.39517,0,2.52614,1.13101,2.52614,2.52614V161.16664Z" fill="#262262"/>
+  <path d="M675.79762,159.90357v1.26307h-1.26307V32.33325c0-.69757-.56547-1.26307-1.26307-1.26307h-93.46736c-.69757,0-1.26307,.56551-1.26307,1.26307V161.16664h-1.26307v-1.26307h98.51965Zm0,2.52614h-99.78272V32.33325h0c0-2.09273,1.69648-3.78922,3.78922-3.78922v0h93.46736v0c2.09273,0,3.78922,1.69648,3.78922,3.78922h0V162.42971h-1.26307" opacity="0"/>
+  <path d="M675.79762,161.16664h-98.51965V32.33325c0-1.39513,1.13098-2.52614,2.52614-2.52614h93.46736c1.39513,0,2.52614,1.13101,2.52614,2.52614V161.16664Z" fill="#262262"/>
+  <text transform="translate(358.76686 362.57352)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">Age (years)</tspan></text>
+  <text transform="translate(36.68288 312.73563)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">0%</tspan></text>
+  <text transform="translate(27.84108 243.37137)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">25%</tspan></text>
+  <text transform="translate(27.84108 174.00809)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">50%</tspan></text>
+  <text transform="translate(27.84108 104.64383)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">75%</tspan></text>
+  <text transform="translate(19.00026 35.27957)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="15.15687"><tspan x="0" y="0">100%</tspan></text>
+  <text transform="translate(151.02794 327.65555)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">18-34</tspan></text>
+  <text transform="translate(302.88581 327.65555)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">35-44</tspan></text>
+  <text transform="translate(454.82785 327.65555)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">45-64</tspan></text>
+  <text transform="translate(613.42836 327.65555)" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">65+</tspan></text>
+  <text transform="translate(156.30284 81.35574)" fill="#f1f2f2" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">35%</tspan><tspan x="-4.66211" y="16.7998">Never</tspan></text>
+  <text transform="translate(306.68122 83.35574)" fill="#f1f2f2" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">37%</tspan><tspan x="-4.66211" y="16.7998">Never</tspan></text>
+  <text transform="translate(458.62326 103.61063)" fill="#f1f2f2" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">47%</tspan><tspan x="-4.66211" y="16.7998">Never</tspan></text>
+  <text transform="translate(611.19428 84.00418)" fill="#f1f2f2" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">47%</tspan><tspan x="-4.66211" y="16.7998">Never</tspan></text>
+  <text transform="translate(156.4014 148.54324)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">18%</tspan><tspan x="-15.94824" y="16.80078">Not Often</tspan></text>
+  <text transform="translate(306.77975 151.05691)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">16%</tspan><tspan x="-15.94824" y="16.7998">Not Often</tspan></text>
+  <text transform="translate(458.72101 179.27566)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">17%</tspan><tspan x="-15.94727" y="16.7998">Not Often</tspan></text>
+  <text transform="translate(611.29176 181.3909)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">17%</tspan><tspan x="-15.94727" y="16.7998">Not Often</tspan></text>
+  <text transform="translate(156.40037 205.41238)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">21%</tspan><tspan x="-21" y="16.80078">Sometimes</tspan></text>
+  <text transform="translate(308.77902 207.38699)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">24%</tspan><tspan x="-21" y="16.7998">Sometimes</tspan></text>
+  <text transform="translate(458.72078 230.5452)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">19%</tspan><tspan x="-21" y="16.80078">Sometimes</tspan></text>
+  <text transform="translate(611.29318 235.36746)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">22%</tspan><tspan x="-21" y="16.7998">Sometimes</tspan></text>
+  <text transform="translate(156.4 271.65262)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">25%</tspan><tspan x="-3.10938" y="16.80078">Often</tspan></text>
+  <text transform="translate(306.7788 270.03934)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">23%</tspan><tspan x="-3.10938" y="16.7998">Often</tspan></text>
+  <text transform="translate(458.72167 282.99637)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">17%</tspan><tspan x="-3.11133" y="16.7998">Often</tspan></text>
+  <text transform="translate(611.29176 285.51004)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">14%</tspan><tspan x="-3.10938" y="16.7998">Often</tspan></text>
+</svg>

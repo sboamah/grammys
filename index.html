@@ -13,7 +13,7 @@
         let html1 = '';
         $(document).ready(function(){
             $.getJSON("data.json", function(data){
-                console.log(data.graphs[0].title); // Prints: Harry
+                console.log(data.graphs[0].title); 
                 let htmlSegment1 = `<div class="content">
                     <h2>${data.graphs[0].title}</h2>
                     <h6> ${data.graphs[0].subtitle}</h6>
@@ -32,7 +32,7 @@
         let html2 = '';
         $(document).ready(function(){
             $.getJSON("data.json", function(data){
-                console.log(data.graphs[1].title); // Prints: Harry
+                console.log(data.graphs[1].title); 
                 let htmlSegment2 = `<div class="content">
                     <h2>${data.graphs[1].title}</h2>
                     <h6> ${data.graphs[1].subtitle}</h6>
@@ -51,7 +51,7 @@
         let html3 = '';
         $(document).ready(function(){
             $.getJSON("data.json", function(data){
-                console.log(data.graphs[2].title); // Prints: Harry
+                console.log(data.graphs[2].title);
                 let htmlSegment3 = `<div class="content">
                     <h2>${data.graphs[2].title}</h2>
                     <h6> ${data.graphs[2].subtitle}</h6>
@@ -71,7 +71,7 @@
         let html4 = '';
         $(document).ready(function(){
             $.getJSON("data.json", function(data){
-                console.log(data.graphs[3].title); // Prints: Harry
+                console.log(data.graphs[3].title); 
                 let htmlSegment4 = `<div class="content">
                     <h2>${data.graphs[3].title}</h2>
                     <h6> ${data.graphs[3].subtitle}</h6>
@@ -86,16 +86,45 @@
                 console.log("An error has occurred.");
             });
         });
+
+        let html5='';
+        $(document).ready(function(){
+            $.getJSON("data.json", function(data){
+                console.log(data.graphs[4].title); 
+                let htmlSegment5 = `<div class="content">
+                    <h2>${data.graphs[4].title}</h2>
+                    <h6> ${data.graphs[4].subtitle}</h6>
+                    <img src="${data.graphs[4].graph}" alt="${data.graphs[4].alt}">
+                    <h6> ${data.graphs[4].source}</h6>
+                    <p>${data.graphs[4].disclaimer}</p>
+                </div>`;
+                html5 += htmlSegment5;
+            let container5 = document.querySelector('#graphFive');
+            container5.innerHTML = html5;
+            }).fail(function(){
+                console.log("An error has occurred.");
+            });
+        });
     </script>
-    <br>
+    
 <h1 class="title">Are the Grammy's keeping up?</h1>
 <h6>By Sylvia Boamah</h6>
 <h5>The Recording Academy was founded in 1957 and formed the Grammy Awards two years after to  recognize "Outstanding Achievement in the music industry".
     The Academy and its famed award show has had moments of controversy surrounding its lack of diversity, nominee choices, and nomination process. 
-    Are the Grammys for an audience or for its members?
+    <br>
+    Below shows a stark difference between the Grammys and the Billboard 200 charts. 
+    <br>
+    <strong>Are the Grammys for the populus or for its members?</strong>
     </h5>
+    <div class = "grid">
+        <section id="graphThree"></section>
+        <section id="graphFour"></section>
+    </div>
 <hr><br>
 <h1>Nomination process</h1>
+<h5>To best answer this question, it's important to understand the nomination process. When researching, the Academy nomination process can be very 
+    confusing to understand. Below is a simplified version of the process.
+</h5>
 <div class="content">
     <img src = "svg/grammydata1.svg" alt="Nomination Process Part 1">
     <div class="tooltip">
@@ -113,9 +142,14 @@
     <img src = "svg/grammydata4.svg" alt="Nomination Process Part 4">
 </div>
 <hr><br>
-<h5>According to the Hollywood Reporter, The Academy had 14,553 voting and “professional” members in 2020. The Grammy's nomination is heavily related to the demographic makeup of these voting members. It is 
+<h1>why are the Grammys and Billboard so different?</h1>
+<h5>According to the Hollywood Reporter, The Academy had 14,553 voting and “professional” members in 2020. 
+    While Billboard reflects the populus by breaking down consumer dollars and music streams, the Grammy nominations are heavily related to the demographic makeup of their voting members. It is 
     directly related to expertise, as shown above. For example, if there are no female rappers as voting members, the chances for 
-    female rapper nominees are slim because of their lack of expert decision-makers. Nominees can be impacted by other demographic distributions as well.
+    female rapper nominees are slim because of their lack of expert decision-makers. 
+    <br>
+    <strong>Could the Grammys nominees be impacted by other demographic distributions as well and the implicit bias that comes with it? 
+    </strong><br>
     The following percentages are breakdowns for voting and professional members. 
     <br>
     <em>Note: The Academy did not break down demographic data solely for voting members.</em>
@@ -128,7 +162,7 @@
 <hr><br>
 <h1>48% "Non-Diverse".</h1>
 <p>"Non-diverse" is a term used in the Academy's reports to describe White people while "diverse" is used to describe
-    marginalized racial identities (i.e. Black, Latinx, Asian, etc.).
+    marginalized racial identities (i.e. Black, Latinx, Asian, etc.). Kind of strange, right?
 </p>
 <h3>Are their nominees reflecting the diversity within music?</h3>
 <br>
@@ -137,10 +171,7 @@
 <h1>71% over 40 years old.</h1>
 <h3>Are their nominees reflecting the current trends of music?</h3>
 <br>
-<div class = "grid">
-    <section id="graphThree"></section>
-    <section id="graphFour"></section>
-</div>
+<section id="graphFive"></section>
 <hr>
 <h1>References</h1>
 <p>[insert data QR Code]</p>
