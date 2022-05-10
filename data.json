@@ -20,7 +20,7 @@
     },
     {
         "id": 3,
-        "title": "Grammy Album of the Year by Genre",
+        "title": "Grammy Album of the Year Nominees by Genre",
         "subtitle": "From 1995 - 2021",
         "graph": "svg/AOTYByGenre.svg",
         "alt": "Pop leads in Grammy Album of the Year Nominees.",
