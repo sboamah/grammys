@@ -16,7 +16,7 @@
                 console.log(data.graphs[0].title); // Prints: Harry
                 let htmlSegment1 = `<div class="content">
                     <h2>${data.graphs[0].title}</h2>
-                    <h5> ${data.graphs[0].subtitle}</h5>
+                    <h6> ${data.graphs[0].subtitle}</h6>
                     <img src="${data.graphs[0].graph}" alt="${data.graphs[0].alt}">
                     <h6> ${data.graphs[0].source}</h6>
                     <p>${data.graphs[0].disclaimer}</p>
@@ -35,7 +35,7 @@
                 console.log(data.graphs[1].title); // Prints: Harry
                 let htmlSegment2 = `<div class="content">
                     <h2>${data.graphs[1].title}</h2>
-                    <h5> ${data.graphs[1].subtitle}</h5>
+                    <h6> ${data.graphs[1].subtitle}</h6>
                     <img src="${data.graphs[1].graph}" alt="${data.graphs[1].alt}">
                     <h6> ${data.graphs[1].source}</h6>
                     <p>${data.graphs[1].disclaimer}</p>
@@ -54,7 +54,7 @@
                 console.log(data.graphs[2].title); // Prints: Harry
                 let htmlSegment3 = `<div class="content">
                     <h2>${data.graphs[2].title}</h2>
-                    <h5> ${data.graphs[2].subtitle}</h5>
+                    <h6> ${data.graphs[2].subtitle}</h6>
                     <img src="${data.graphs[2].graph}" alt="${data.graphs[2].alt}">
                     <h6> ${data.graphs[2].source}</h6>
                     <p>${data.graphs[2].disclaimer}</p>
@@ -74,7 +74,7 @@
                 console.log(data.graphs[3].title); // Prints: Harry
                 let htmlSegment4 = `<div class="content">
                     <h2>${data.graphs[3].title}</h2>
-                    <h5> ${data.graphs[3].subtitle}</h5>
+                    <h6> ${data.graphs[3].subtitle}</h6>
                     <img src="${data.graphs[3].graph}" alt="${data.graphs[3].alt}">
                     <h6> ${data.graphs[3].source}</h6>
                     <p>${data.graphs[3].disclaimer}</p>
@@ -88,7 +88,7 @@
         });
     </script>
     <br>
-<h1>Are the Grammy's keeping up?</h1>
+<h1 class="title">Are the Grammy's keeping up?</h1>
 <h6>By Sylvia Boamah</h6>
 <h5>The Recording Academy was founded in 1957 and formed the Grammy Awards two years after to  recognize "Outstanding Achievement in the music industry".
     The Academy and its famed award show has had moments of controversy surrounding its lack of diversity, nominee choices, and nomination process. 
@@ -97,22 +97,20 @@
 <hr><br>
 <h1>Nomination process</h1>
 <div class="content">
-    <img src = "svg/NominationProcess1.svg" alt="Nomination Process Part 1">
+    <img src = "svg/grammydata1.svg" alt="Nomination Process Part 1">
     <div class="tooltip">
-        <img src = "svg/NominationProcess2.svg" alt="Nomination Process Part 2">
-        <div class="notify">Hover for more information.</div>
-        <div class="tooltiptext">Around 350 experts in various fields out of over 12,000 voting members determine whether or not each entry is eligible and sort submissions into the 84 categories within 30 fields/genres.
+        <img src = "svg/grammydata2.svg" alt="Nomination Process Part 2">
+        <span class="tooltiptext">Around 350 experts in various fields out of over 12,000 voting members determine whether or not each entry is eligible and sort submissions into the 84 categories within 30 fields/genres.
         Expertise is determined by what credits you have music on. (i.e. If you're a producer for a rock album and an R&B album, you are considered a rock and R&B expert). 
-        </div>
+        </span>
     </div>
     <div class="tooltip">
-        <img src = "svg/NominationProcess3.svg" alt="Nomination Process Part 3">
-        <div class="notify">Hover for more information.</div>
-        <div class="tooltiptext">Members can vote only in their area of expertise; 
+        <img src = "svg/grammydata3.svg" alt="Nomination Process Part 3" >
+        <span class="tooltiptext">Members can vote only in their area of expertise; 
             up to 15 of the Grammy Awards' categories, as well as in the four all-genre general 
-            field categories (Record of the Year, Album of the Year, Song of the Year, Best New Artist).</div>
+            field categories (Record of the Year, Album of the Year, Song of the Year, Best New Artist).</span>
     </div><br>
-    <img src = "svg/NominationProcess4.svg" alt="Nomination Process Part 4">
+    <img src = "svg/grammydata4.svg" alt="Nomination Process Part 4">
 </div>
 <hr><br>
 <h5>According to the Hollywood Reporter, The Academy had 14,553 voting and “professional” members in 2020. The Grammy's nomination is heavily related to the demographic makeup of these voting members. It is 
@@ -139,11 +137,10 @@
 <h1>71% over 40 years old.</h1>
 <h3>Are their nominees reflecting the current trends of music?</h3>
 <br>
-<section id="graphThree"></section>
-<br>
-<h3 style="text-align:center">versus</h3>
-<br>
-<section id="graphFour"></section>
+<div class = "grid">
+    <section id="graphThree"></section>
+    <section id="graphFour"></section>
+</div>
 <hr>
 <h1>References</h1>
 <p>[insert data QR Code]</p>
