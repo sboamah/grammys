@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 524.24841 409.99">
-  <path d="M210.99,25.84c42.42,0,83.49,14.91,116.02,42.13l-116.02,138.69V25.84Z" fill="#b26700"/>
-  <path d="M327.01,67.97c61.36,51.34,81.7,136.9,49.99,210.35l-166.02-71.66,116.02-138.69Z" fill="#fb9626"/>
-  <path d="M377,278.32c-12.88,29.83-33.56,55.65-59.86,74.72l-106.15-146.38,166.02,71.66Z" fill="#fbe44b"/>
-  <path d="M210.18,25.84c-.27,0-.54,0-.81,0-1.61,.01-3.23,.05-4.84,.11-3.23,.12-6.45,.32-9.67,.61-.54,.05-1.07,.1-1.61,.15-.27,.03-.54,.05-.8,.08-1.61,.17-3.21,.35-4.81,.56-.27,.03-.53,.07-.8,.11-2.67,.36-5.33,.78-7.98,1.26l32.13,177.94V25.84c-.27,0-.54,0-.81,0Z" fill="#a7a9ac"/>
-  <path d="M30.29,213.32C26.97,123.38,90.3,44.7,178.86,28.71l32.13,177.94-180.7,6.66Z" fill="#2a2e34"/>
-  <path d="M61.7,308.68c-19.26-28.19-30.15-61.25-31.41-95.37l180.7-6.66L61.7,308.68Z" fill="#5b51aa"/>
-  <path d="M317.14,353.04c-39.53,28.67-88.98,40.13-137.09,31.77-48.11-8.35-90.8-35.81-118.35-76.13l149.29-102.03,106.15,146.38Z" fill="#3a1d03"/>
-  <text transform="translate(45.16 40.35)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Other</tspan></text>
-  <text transform="translate(45.16 62.79)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">2.6%</tspan></text>
-  <polyline points="45.16 46.29 123.71 46.29 200.26 35.21" fill="none" stroke="#757575" stroke-miterlimit="10"/>
-  <path d="M202.89,35.21c0-1.46-1.18-2.64-2.64-2.64s-2.64,1.18-2.64,2.64,1.18,2.64,2.64,2.64,2.64-1.18,2.64-2.64" fill="#9e9e9e"/>
-  <text transform="translate(111.72 138.44)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Pop</tspan></text>
-  <text transform="translate(101.23 160.88)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">22.7%</tspan></text>
-  <text transform="translate(61.7 242.93)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="-15" y="0">Compilation</tspan></text>
-  <text transform="translate(61.7 265.36)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">9.0%</tspan></text>
-  <text transform="translate(184.12 305.48)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Rap</tspan></text>
-  <text transform="translate(173.6 327.92)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">25.4%</tspan></text>
-  <text transform="translate(223.24 85.12)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Country</tspan></text>
-  <text transform="translate(227.25 107.56)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">11.1%</tspan></text>
-  <text transform="translate(297.49 172.63)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Rock</tspan></text>
-  <text transform="translate(290.5 195.06)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">20.4%</tspan></text>
-  <text transform="translate(300.75 282.92)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">R&amp;B</tspan></text>
-  <text transform="translate(298.98 305.36)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">8.5%</tspan></text>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 409.68 409.98726">
+  <g>
+    <path d="M89.22508,72.63489c25.23099-22.99842,56.45733-38.38416,90.06701-44.3775l31.74361,178.01295L89.22508,72.63489Z" fill="#5b51aa"/>
+    <text transform="translate(117.85888 87.60921) rotate(17.19521)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="-10" y="0">Compilation</tspan></text>
+    <text transform="translate(146.3491 119.19403) rotate(17.19547)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">9.0%</tspan></text>
+  </g>
+  <g>
+    <path d="M210.18045,25.83737c-.26903,.00121-.53806,.00306-.80741,.00548-1.61483,.01442-3.22966,.05042-4.84352,.10818-3.22805,.11534-6.45255,.3172-9.66965,.60532-.53613,.04801-1.07226,.09843-1.60806,.15119-.26774,.02642-.53548,.0534-.80323,.08103-1.60645,.16553-3.21065,.35264-4.81227,.56126-.26678,.03472-.53355,.07008-.80033,.106-2.66776,.35957-5.32681,.77866-7.97588,1.25687l32.12809,177.94398V25.8356c-.26935,0-.53838,.00064-.80774,.00177Z" fill="#a7a9ac"/>
+    <text transform="translate(45.1591 40.35363)" fill="#1a1a1a" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Other</tspan></text>
+    <text transform="translate(45.1591 62.7882)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">2.6%</tspan></text>
+    <polyline points="45.15952 46.29103 123.71455 46.29103 200.25553 35.21231" fill="none" stroke="#757575" stroke-miterlimit="10"/>
+  </g>
+  <path d="M202.89493,35.21231c0-1.45772-1.18172-2.6394-2.6394-2.6394s-2.6394,1.18168-2.6394,2.6394,1.18168,2.6394,2.6394,2.6394,2.6394-1.18172,2.6394-2.6394" fill="#9e9e9e"/>
+  <g>
+    <path d="M210.85412,25.87439c89.99313,.21853,166.12841,66.58249,178.62903,155.70345l-179.06811,25.11711,.43908-180.82056Z" fill="#2a2e34"/>
+    <text transform="translate(275.60017 124.96491)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Pop</tspan></text>
+    <text transform="translate(269.36934 144.87001)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">22.7%</tspan></text>
+  </g>
+  <g>
+    <path d="M44.63706,276.71823c-16.57443-39.0469-18.8936-82.67801-6.55191-123.26194l172.99858,52.60953L44.63706,276.71823Z" fill="#b26700"/>
+    <text transform="translate(55.86708 204.99361)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Country</tspan></text>
+    <text transform="translate(59.60373 226.84982)" fill="#fff" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">11.1%</tspan></text>
+  </g>
+  <g>
+    <path d="M231.13408,385.36839c-79.50178,8.97052-155.44763-35.37079-186.71488-109.01429l166.44068-70.66661,20.2742,179.6809Z" fill="#fb9626"/>
+    <text transform="translate(139.86952 288.50473)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">Rock</tspan></text>
+    <text transform="translate(132.88613 310.9393)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">20.4%</tspan></text>
+  </g>
+  <g>
+    <path d="M38.19084,154.28491c9.4176-31.09942,27.0415-59.08641,51.01821-81.01772l122.04197,133.42423L38.19084,154.28491Z" fill="#fbe44b"/>
+    <text transform="translate(82.86837 133.28905)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">R&amp;B</tspan></text>
+    <text transform="translate(82.86803 150.84451)" fill="#231f20" font-family="FuturaPT-Book, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="14"><tspan x="0" y="0">8.5%</tspan></text>
+  </g>
+  <g>
+    <path d="M389.06237,181.03143c6.75288,48.3626-6.34179,97.4004-36.30528,135.95851-29.96351,38.55814-74.24817,63.35821-122.78039,68.75881l-19.9981-179.71181,179.08376-25.0055Z" fill="#3a1d03"/>
+    <text transform="translate(286.14667 258.13722)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="18"><tspan x="0" y="0">Rap</tspan></text>
+    <text transform="translate(275.62582 280.57177)" fill="#fff" font-family="FuturaPT-Bold, Futura PT, Futura,Trebuchet MS,Arial,sans-serif" font-size="18"><tspan x="0" y="0">25.4%</tspan></text>
+  </g>
 </svg>
