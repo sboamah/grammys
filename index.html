@@ -34,7 +34,6 @@
             $.getJSON("data.json", function(data){
                 console.log(data.graphs[1].title); 
                 let htmlSegment2 = `<div class="content">
-                    <h2>${data.graphs[1].title}</h2>
                     <h6> ${data.graphs[1].subtitle}</h6>
                     <img src="${data.graphs[1].graph}" alt="${data.graphs[1].alt}">
                     <h6> ${data.graphs[1].source}</h6>
@@ -142,7 +141,7 @@
     <img src = "svg/grammydata4.svg" alt="Nomination Process Part 4">
 </div>
 <hr><br>
-<h1>why are the Grammys and Billboard so different?</h1>
+<h1>why are the Grammys and Billboard different?</h1>
 <h5>According to the Hollywood Reporter, The Academy had 14,553 voting and “professional” members in 2020. 
     While Billboard reflects the populus by breaking down consumer dollars and music streams, the Grammy nominations are heavily related to the demographic makeup of their voting members. It is 
     directly related to expertise, as shown above. For example, if there are no female rappers as voting members, the chances for 
@@ -157,7 +156,6 @@
 <hr><br>
 <h1>69% Male.</h1>
 <h3>Are their nominees reflected in their gender distribution?</h3> 
-<br>
 <section id="graphOne"></section>
 <hr><br>
 <h1>48% "Non-Diverse".</h1>
@@ -165,12 +163,10 @@
     marginalized racial identities (i.e. Black, Latinx, Asian, etc.). Kind of strange, right?
 </p>
 <h3>Are their nominees reflecting the diversity within music?</h3>
-<br>
 <section id="graphTwo"></section>
 <hr><br>
 <h1>71% over 40 years old.</h1>
 <h3>Are their nominees reflecting the current trends of music?</h3>
-<br>
 <section id="graphFive"></section>
 <hr>
 <h1>References</h1>
