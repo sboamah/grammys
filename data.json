@@ -40,7 +40,7 @@
     {
         "id": 5,
         "title": "Grammys Viewership Frequency by Age Group",
-        "subtitle": "As of May 2020",
+        "subtitle": "A Survey as of May 2020",
         "graph": "svg/ViewershipByAge.svg",
         "alt": "Age 18-34 watch the Grammys the most.",
         "source": "Source: Statistica",
